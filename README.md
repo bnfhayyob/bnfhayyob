@@ -39,19 +39,19 @@ I'm a passionate full-stack developer focused on building modern, scalable web a
 German language exam preparation platform with interactive exercises and question types
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://telc-demo.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/telc-demo)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/telc-demo)
 
 #### 🚗 Car Rental System
 Full-stack car rental application with booking management and authentication
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-ayb.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/car-rental)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/car-rental)
 
 #### 🌍 Kosta Tours
 Tourism and travel booking platform with modern UI/UX
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kosta-ebon.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/kosta-tours)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/kosta-tours)
 
 ---
 
