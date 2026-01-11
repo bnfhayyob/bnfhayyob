@@ -33,6 +33,28 @@ I'm a passionate full-stack developer focused on building modern, scalable web a
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🚀 Featured Projects
+
+#### 📚 TELC Exam Platform
+German language exam preparation platform with interactive exercises and question types
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://telc-demo.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/telc-demo)
+
+#### 🚗 Car Rental System
+Full-stack car rental application with booking management and authentication
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-ayb.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/car-rental)
+
+#### 🌍 Kosta Tours
+Tourism and travel booking platform with modern UI/UX
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kosta-ebon.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/kosta-tours)
+
+---
+
 ### 💼 What I Do
 
 - 🌐 Build full-stack web applications with the MERN stack
@@ -51,3 +73,5 @@ I'm a passionate full-stack developer focused on building modern, scalable web a
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
 
 ---
+
+⭐️ From [Ayyoub](https://github.com/bnfhayyob)
