@@ -74,4 +74,4 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 ---
 
-- Portfolio: (https://bnfhayyob-portfolio.vercel.app)
+- Portfolio: ayyoub-bnfth.vercel.app/
