@@ -53,6 +53,12 @@ Tourism and travel booking platform with modern UI/UX
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kosta-ebon.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/kosta-tours)
 
+#### 📝 Blog Platform
+Modern blogging platform built with Next.js, MongoDB, Axios, and shadcn/ui
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://blogger-omega-seven.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/next-blog-app)
+
 ---
 
 ### 💼 What I Do
