@@ -67,6 +67,16 @@ Modern blogging platform built with Next.js, MongoDB, Axios, and shadcn/ui
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://blogger-omega-seven.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/next-blog-app)
 
+#### 🔏 TarjamaPro — Translation Management Platform
+Full-stack translation management system for sworn translators in Morocco
+- **Tech:** Next.js 14, TypeScript, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS, shadcn/ui
+- **Features:** Document upload, payment verification, real-time queue, WhatsApp notifications, Arabic RTL support
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://tarjama-pro.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/tarjamapro-frontend)
+[![Backend](https://img.shields.io/badge/Backend-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnfhayyob/tarjamapro-backend)
+
+
 ---
 
 ### 💼 What I Do
